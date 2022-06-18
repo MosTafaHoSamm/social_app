@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64902855289",
+    "project_id": "social3-ce572",
+    "storage_bucket": "social3-ce572.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64902855289:android:ba97875cbfb63c9fd4b2a8",
+        "android_client_info": {
+          "package_name": "com.mostafa.social3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64902855289-m5bobe9b6t83l03d8rbsjfk3i51dkjkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUTMizuEc_4TR6pUUQGI_CxqjSK38duYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64902855289-m5bobe9b6t83l03d8rbsjfk3i51dkjkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
